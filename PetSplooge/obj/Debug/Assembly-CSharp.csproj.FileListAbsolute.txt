@@ -1,0 +1,2 @@
+D:\UnityProjects\PetSplooge\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\UnityProjects\PetSplooge\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
